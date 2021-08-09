@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTexting", "UnitTexting.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTexting.Tests", "..\UnitTexting.Tests\UnitTexting.Tests.csproj", "{E9B0CEF4-78A4-44A5-A3AA-39244323FB82}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTextingTests", "..\UnitTextingTests\UnitTextingTests.csproj", "{2CE52427-855A-419D-B5EE-33C91C53B3B7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{E9B0CEF4-78A4-44A5-A3AA-39244323FB82}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E9B0CEF4-78A4-44A5-A3AA-39244323FB82}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E9B0CEF4-78A4-44A5-A3AA-39244323FB82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CE52427-855A-419D-B5EE-33C91C53B3B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CE52427-855A-419D-B5EE-33C91C53B3B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CE52427-855A-419D-B5EE-33C91C53B3B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CE52427-855A-419D-B5EE-33C91C53B3B7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
